@@ -1,4 +1,4 @@
-# www.shouhei.io
+
 Personal portfolio website built for CFA Major Project #1
 
 ## Design Process
